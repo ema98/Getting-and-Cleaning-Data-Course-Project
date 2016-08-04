@@ -3,7 +3,7 @@ Steps for running the analysis script "run_analysis.R"
 
 ##Step-1: Start RStudio.
 
-##Step-2: Set the working directory. Assume we set the working directory as "C:\Temp\final" using the setwd command as follows.
+##Step-2: Set the working directory. Assume we set the working directory as "C:\Temp\final" (Note: double backslash)  using the setwd command as follows.
 
 setwd("C:\\Temp\\final")
 
