@@ -1,4 +1,5 @@
 Steps for running the analysis script "run_analysis.R"
+======================================================
 
 ##Step-1: Start RStudio.
 
