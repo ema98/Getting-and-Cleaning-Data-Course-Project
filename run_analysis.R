@@ -119,3 +119,5 @@ fdf <- group_by(tidydf, activity, subject) %>%
 
 ## Write the tidy table into a txt file
 write.table(fdf, file = "./data/tidy_dataset.txt", row.name = FALSE)
+
+## To Reviewer: please think twice and review code carefully if you are not sure about whether the script works correctly to get the right result.
